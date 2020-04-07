@@ -1,0 +1,2 @@
+number = float(input())
+new_number=(int(number*100))%100
